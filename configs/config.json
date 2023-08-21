@@ -1,0 +1,12 @@
+{
+    "db": {
+        "host_name": "localhost",
+        "user": "root",
+        "password": "admin",
+        "database": "Auth",
+        "port": "5432"
+    },
+    "redis": {
+        "host": "localhost:6379"
+    }
+}
